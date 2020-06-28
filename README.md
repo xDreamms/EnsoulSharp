@@ -6,3 +6,7 @@ Illaoi - Kindred - Rengar - Taliyah - Graves - Kalista - Zyra - LeeSin - Kled - 
 # Supported Utilites
 
 BaseUlt - Auto Smite - Troll Chat
+
+# Discord
+
+https://discord.gg/dbAQ7S2
