@@ -9,4 +9,10 @@ BaseUlt - Auto Smite - Troll Chat
 
 # Discord
 
-https://discord.gg/dbAQ7S2
+<p align="center">
+  <a href="https://discord.gg/dbAQ7S2">
+    <h1> My discord server: </h1>
+    <img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" alt="Discord Server">
+  </a>
+  </p>
+
