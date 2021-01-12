@@ -7,7 +7,7 @@ Illaoi  - Rengar - Taliyah - Graves - Kalista - Zyra - LeeSin - Kled - Twitch - 
 
 BaseUlt - Auto Smite - Troll Chat
 
-# Discord
+
 
 <p align="center">
   <a href="https://discord.gg/dbAQ7S2">
