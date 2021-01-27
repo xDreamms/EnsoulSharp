@@ -23,7 +23,7 @@ You agree to the following by purchasing:-
 (10)We Can Change The Price Any time we want.
 (11) We are not obliged to inform you of changes in our 'Terms of Service'
 
-[![paypal](https://www.paypalobjects.com/en_US/GB/i/btn/btn_subscribeCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GKWWU3T2F6ZHW)
+[![paypal](https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3WDFVA2GR4DRS)
 
 
 
