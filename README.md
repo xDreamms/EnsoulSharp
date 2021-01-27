@@ -8,11 +8,6 @@ BaseUlt - Auto Smite - Troll Chat
 
 # SUBSCRIBE
 xDreamms.AIO 1 Month Subscription
-Product Information
-
-Product: xDreamms.AIO
-Subscription: 1 Month
-Country: Any Country
 
 You agree to the following by purchasing:-
 
