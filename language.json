@@ -1,0 +1,263 @@
+{
+	"Languages": [
+		{
+			"key": "AutoLevel",
+			"Translator": {
+				"en-US": "Auto Level Up Skills",
+				"tr-TR": "Otomatik Seviye Atlat"
+			}
+		},
+		{
+			"key": "DrawE",
+			"Translator": {
+				"en-US": "Draw E",
+				"tr-TR": "E mesafesini çiz"
+			}
+		},
+		{
+			"key": "DrawQ",
+			"Translator": {
+				"en-US": "Draw Q",
+				"tr-TR": "Q mesafesini çiz"
+			}
+		},
+		{
+			"key": "DrawR",
+			"Translator": {
+				"en-US": "Draw R",
+				"tr-TR": "R mesafesini çiz"
+			}
+		},
+		{
+			"key": "DrawW",
+			"Translator": {
+				"en-US": "Draw W",
+				"tr-TR": "W mesafesini çiz"
+			}
+		},
+		{
+			"key": "EzrealAntiGapcloserE",
+			"Translator": {
+				"en-US": "Anti Gapcloser with E",
+				"tr-TR": "E ile anında mesafe kapatanlardan kaç"
+			}
+		},
+		{
+			"key": "EzrealAutoQ",
+			"Translator": {
+				"en-US": "Auto Q",
+				"tr-TR": "Otomatik Q kullan"
+			}
+		},
+		{
+			"key": "EzrealAutoQMana",
+			"Translator": {
+				"en-US": "Auto Q if mana percent >",
+				"tr-TR": "Otomatik Q kullan eğer mana yüzdesi >"
+			}
+		},
+		{
+			"key": "EzrealLaneClearQMana",
+			"Translator": {
+				"en-US": "Use Q if mana percent >",
+				"tr-TR": "Q kullan eğer mana yüzdesi >"
+			}
+		},
+		{
+			"key": "EzrealLaneClearQMode",
+			"Translator": {
+				"en-US": "Q mode:",
+				"tr-TR": "Q modu: "
+			}
+		},
+		{
+			"key": "EzrealLaneClearQModeOption1",
+			"Translator": {
+				"en-US": "Only for last hit",
+				"tr-TR": "Sadece son vuruşta kullan"
+			}
+		},
+		{
+			"key": "EzrealLaneClearQModeOption2",
+			"Translator": {
+				"en-US": "Always",
+				"tr-TR": "Her zaman kullan"
+			}
+		},
+		{
+			"key": "EzrealLastHitQMana",
+			"Translator": {
+				"en-US": "Use Q if mana percent >",
+				"tr-TR": "Q kullan eğer mana yüzdesi  >"
+			}
+		},
+		{
+			"key": "EzrealMenuBoolComboUseWOnlyCanUseQ",
+			"Translator": {
+				"en-US": "^ Only when Ezreal can use Q",
+				"tr-TR": "^ Sadece Ezreal Q'yu kullanabildiğinde"
+			}
+		},
+		{
+			"key": "EzrealMenuKeyBindComboUseRmanuel",
+			"Translator": {
+				"en-US": "Semi Manual R",
+				"tr-TR": "R'yi tuşa basarak kullan"
+			}
+		},
+		{
+			"key": "EzrealMenuSliderComboDontRTargetIn",
+			"Translator": {
+				"en-US": "Don't use R if target in",
+				"tr-TR": "Hedef X mesafedeyse R kullanma"
+			}
+		},
+		{
+			"key": "EzrealStackQ",
+			"Translator": {
+				"en-US": "Stack Q",
+				"tr-TR": "Q yükü biriktir"
+			}
+		},
+		{
+			"key": "EzrealUsePotions",
+			"Translator": {
+				"en-US": "Use Potions",
+				"tr-TR": "İksir Kullan"
+			}
+		},
+		{
+			"key": "EzrealUseWForTurrets",
+			"Translator": {
+				"en-US": "Use W for turrets, baron and dragon",
+				"tr-TR": "Kuleler, baron ve ejderha için W kullan"
+			}
+		},
+		{
+			"key": "FleeKey",
+			"Translator": {
+				"en-US": "Flee!",
+				"tr-TR": "Kaç!"
+			}
+		},
+		{
+			"key": "MenuBoolSpellFarm",
+			"Translator": {
+				"en-US": "Use Spells on Farm",
+				"tr-TR": "Farm yaparken yetenekleri kullan"
+			}
+		},
+		{
+			"key": "MenuCombo",
+			"Translator": {
+				"en-US": "Combo",
+				"tr-TR": "Kombo"
+			}
+		},
+		{
+			"key": "MenuDrawings",
+			"Translator": {
+				"en-US": "Drawings",
+				"tr-TR": "Çizimler"
+			}
+		},
+		{
+			"key": "MenuFlee",
+			"Translator": {
+				"en-US": "Flee",
+				"tr-TR": "Kaçış"
+			}
+		},
+		{
+			"key": "MenuHarass",
+			"Translator": {
+				"en-US": "Harass",
+				"tr-TR": "Haras"
+			}
+		},
+		{
+			"key": "MenuJungleClear",
+			"Translator": {
+				"en-US": "JungleClear",
+				"tr-TR": "Orman Temizleme"
+			}
+		},
+		{
+			"key": "MenuKillSteal",
+			"Translator": {
+				"en-US": "KillSteal",
+				"tr-TR": "Kill çalma"
+			}
+		},
+		{
+			"key": "MenuLaneClear",
+			"Translator": {
+				"en-US": "LaneClear",
+				"tr-TR": "Lane temizleme"
+			}
+		},
+		{
+			"key": "MenuLastHit",
+			"Translator": {
+				"en-US": "LastHit",
+				"tr-TR": "Son vuruş"
+			}
+		},
+		{
+			"key": "MenuMisc",
+			"Translator": {
+				"en-US": "Misc",
+				"tr-TR": "Çeşitli"
+			}
+		},
+		{
+			"key": "MenuSliderMana",
+			"Translator": {
+				"en-US": "^ if mana percent >",
+				"tr-TR": "^ Eğer mana yüzdesi >"
+			}
+		},
+		{
+			"key": "MiscQSS",
+			"Translator": {
+				"en-US": "Use QSS",
+				"tr-TR": "QSS kullan"
+			}
+		},
+		{
+			"key": "UsageE",
+			"Translator": {
+				"en-US": "Use E",
+				"tr-TR": "E kullan"
+			}
+		},
+		{
+			"key": "UsageIgnite",
+			"Translator": {
+				"en-US": "Use Ignite",
+				"tr-TR": "Tutuştur kullan"
+			}
+		},
+		{
+			"key": "UsageQ",
+			"Translator": {
+				"en-US": "Use Q",
+				"tr-TR": "Q kullan"
+			}
+		},
+		{
+			"key": "UsageR",
+			"Translator": {
+				"en-US": "Use R",
+				"tr-TR": "R kullan"
+			}
+		},
+		{
+			"key": "UsageW",
+			"Translator": {
+				"en-US": "Use W",
+				"tr-TR": "W kullan"
+			}
+		}
+	]
+}
