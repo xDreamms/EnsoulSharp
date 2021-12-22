@@ -1507,2290 +1507,2617 @@
 		{
 			"key": "KaiSaComboEMode",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": ""
+				"en-US": "E-R mode: ",
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KaiSaComboREnemyCount",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": ""
+				"en-US": "Don't use R If enemy count > ",
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KaiSaComboDontR",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": ""
+				"en-US": "Don't use R If target in ",
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KaiSaComboEModeOption1",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": ""
+				"en-US": "First E then R",
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KaiSaComboEModeOption2",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": ""
+				"en-US": "First R then E",
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KaiSaHarassQMana",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": ""
+				"en-US": "Min mana % for Q",
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KaiSaHarassWMana",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": ""
+				"en-US": "Min mana % for W",
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KaiSaHarassEMana",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": ""
+				"en-US": "Min mana % for E",
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KaiSaLaneClearMinionCount",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": ""
+				"en-US": "Use Q if minion count >",
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		},
 		{
 			"key": "",
 			"Translator": {
 				"en-US": "",
-				"tr-TR": ""
+				"tr-TR": "",
+				"zh_CN": ""
 			}
 		}
 		
