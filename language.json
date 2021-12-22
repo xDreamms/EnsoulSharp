@@ -1508,7 +1508,7 @@
 			"key": "KaiSaComboEMode",
 			"Translator": {
 				"en-US": "E-R mode: ",
-				"tr-TR": "",
+				"tr-TR": "E-R modu: ",
 				"zh_CN": ""
 			}
 		},
@@ -1516,7 +1516,7 @@
 			"key": "KaiSaComboREnemyCount",
 			"Translator": {
 				"en-US": "Don't use R If enemy count > ",
-				"tr-TR": "",
+				"tr-TR": "Eğer düşman sayısı X'den fazlaysa R kullanma",
 				"zh_CN": ""
 			}
 		},
@@ -1524,7 +1524,7 @@
 			"key": "KaiSaComboDontR",
 			"Translator": {
 				"en-US": "Don't use R If target in ",
-				"tr-TR": "",
+				"tr-TR": "Eğer X menzilde bir hedef varsa R kullanma",
 				"zh_CN": ""
 			}
 		},
@@ -1532,7 +1532,7 @@
 			"key": "KaiSaComboEModeOption1",
 			"Translator": {
 				"en-US": "First E then R",
-				"tr-TR": "",
+				"tr-TR": "İlk E sonra R",
 				"zh_CN": ""
 			}
 		},
@@ -1540,7 +1540,7 @@
 			"key": "KaiSaComboEModeOption2",
 			"Translator": {
 				"en-US": "First R then E",
-				"tr-TR": "",
+				"tr-TR": "İlk R sonra E",
 				"zh_CN": ""
 			}
 		},
@@ -1548,7 +1548,7 @@
 			"key": "KaiSaHarassQMana",
 			"Translator": {
 				"en-US": "Min mana % for Q",
-				"tr-TR": "",
+				"tr-TR": "Q için en düşük mana yüzdesi",
 				"zh_CN": ""
 			}
 		},
@@ -1556,7 +1556,7 @@
 			"key": "KaiSaHarassWMana",
 			"Translator": {
 				"en-US": "Min mana % for W",
-				"tr-TR": "",
+				"tr-TR": "W için en düşük mana yüzdesi",
 				"zh_CN": ""
 			}
 		},
@@ -1564,7 +1564,7 @@
 			"key": "KaiSaHarassEMana",
 			"Translator": {
 				"en-US": "Min mana % for E",
-				"tr-TR": "",
+				"tr-TR": "E için en düşük mana yüzdesi",
 				"zh_CN": ""
 			}
 		},
@@ -1572,7 +1572,7 @@
 			"key": "KaiSaLaneClearMinionCount",
 			"Translator": {
 				"en-US": "Use Q if minion count >",
-				"tr-TR": "",
+				"tr-TR": "Eğer minyon sayısı X'den fazlaysa Q kullan",
 				"zh_CN": ""
 			}
 		},
@@ -1580,7 +1580,7 @@
 			"key": "KassadinComboDontR",
 			"Translator": {
 				"en-US": "Don't R if >= X Enemies",
-				"tr-TR": "",
+				"tr-TR": "X'den fazla düşman varsa R kullanma",
 				"zh_CN": ""
 			}
 		},
@@ -1588,7 +1588,7 @@
 			"key": "KassadinHarassMana",
 			"Translator": {
 				"en-US": "Do harass if mana percent>",
-				"tr-TR": "",
+				"tr-TR": "Mana yüzdesi X'den büyükse haras yap",
 				"zh_CN": ""
 			}
 		},
@@ -1596,7 +1596,7 @@
 			"key": "KassadinLaneClearManaManager",
 			"Translator": {
 				"en-US": "Clear lane if mana percent >",
-				"tr-TR": "",
+				"tr-TR": "Mana yüzdesi X'den büyükse lane temizle",
 				"zh_CN": ""
 			}
 		},
@@ -1604,7 +1604,7 @@
 			"key": "KassadinLaneClearUseR",
 			"Translator": {
 				"en-US": "Use R if no enemies arround",
-				"tr-TR": "",
+				"tr-TR": "Eğer ortada düşman yoksa R kullan",
 				"zh_CN": ""
 			}
 		},
@@ -1612,7 +1612,7 @@
 			"key": "KassadinKillStealRQE",
 			"Translator": {
 				"en-US": "Use RQE",
-				"tr-TR": "",
+				"tr-TR": "RQE kullan",
 				"zh_CN": ""
 			}
 		},
@@ -1620,7 +1620,7 @@
 			"key": "KassadinMiscAntiGapcloserR",
 			"Translator": {
 				"en-US": "Anti Gapcloser with R",
-				"tr-TR": "",
+				"tr-TR": "Anında mesafe kapatanlara karşı R kullan",
 				"zh_CN": ""
 			}
 		},
@@ -1628,7 +1628,7 @@
 			"key": "KassadinMiscInterrupterQ",
 			"Translator": {
 				"en-US": "Interrupt spells with Q",
-				"tr-TR": "",
+				"tr-TR": "Q ile düşman yeteneklerini böl",
 				"zh_CN": ""
 			}
 		},
@@ -1636,7 +1636,7 @@
 			"key": "KassadinMiscSetSkinEnabled",
 			"Translator": {
 				"en-US": "Set Skin Enabled",
-				"tr-TR": "",
+				"tr-TR": "Skin değiştiriciyi aktif et",
 				"zh_CN": ""
 			}
 		},
@@ -1644,7 +1644,7 @@
 			"key": "KassadinSetSkin",
 			"Translator": {
 				"en-US": "Set Skin",
-				"tr-TR": "",
+				"tr-TR": "Skin numarası",
 				"zh_CN": ""
 			}
 		},
@@ -1652,239 +1652,239 @@
 			"key": "KassadinMiscAutoLevel",
 			"Translator": {
 				"en-US": "Auto Level Up",
-				"tr-TR": "",
+				"tr-TR": "Otomatik level atlat",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancComboWMode",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "W mode: (Change with Middle Mouse)",
+				"tr-TR": "W modu: (Orta mouse'a tıklayarak değiştirebilirsin)",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancComboWModeOption1",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Only target",
+				"tr-TR": "Sadece düşmana",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancComboWModeOption2",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Closer to the enemy",
+				"tr-TR": "Düşmana yaklaşmak için",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancComboMode",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Combo Mode: ",
+				"tr-TR": "Kombo modu: ",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancChangeComboMode",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Change Combo Mode",
+				"tr-TR": "Kombo modunu değiştir",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancComboDoubleStun",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Double Stun Combo",
+				"tr-TR": "Çift Sersemsemleten Kombo",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancDrawWPosition",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Draw W Position",
+				"tr-TR": "W yerini çiz",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancDrawRWPosition",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Draw RW Position",
+				"tr-TR": "RW yerini çiz",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancDrawComboMode",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Draw Combo Mode",
+				"tr-TR": "Kombo modunu çiz",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancDrawComboWMode",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Draw Combo W Mode",
+				"tr-TR": "Kombo W modunu çiz",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancDrawDamage",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Draw Damage",
+				"tr-TR": "Hasarı çiz",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancGapCloserE",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Use E Gapcloser",
+				"tr-TR": "Anında mesafe kapatanlara karşı E kullan",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancGapCloserW",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Use W Gapcloser",
+				"tr-TR": "Anında mesafe kapatanlara karşı W kullan",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancHarassReturnBack",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Return Back W",
+				"tr-TR": "W'ya geri dön",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "LeblancFleeReturnBack",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Return back smartly",
+				"tr-TR": "Zekice geri dön",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasComboWHealth",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Use W only Sylas has %40 HP",
+				"tr-TR": "W'yu sadece Sylas'ın %40'dan aşağıda canı varken kullan",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasComboEMode",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "E mode: ",
+				"tr-TR": "E modu: ",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasComboEModeOption1",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Only target",
+				"tr-TR": "Sadece düşmana",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasComboEModeOption2",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Closer target",
+				"tr-TR": "Düşmana yaklaşmak için",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasDontEEnemyRange",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Use E If Enemy in > ",
+				"tr-TR": "E kullan eğer düşmanla mesafe >",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasComboR",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Use R to steal enemies's ultimates.",
+				"tr-TR": "Düşmanların ultilerini çalmak için R kullan",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasDontSteal",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Dont Steal these ultimates: ",
+				"tr-TR": "Bu ultileri çalma",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasHarassQMana",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Do harass if mana percent >",
+				"tr-TR": "Haras yap eğer mana yüzdesi >",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasLaneClearMana",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Clear lane if mana percent >",
+				"tr-TR": "Lane temizle eğer mana yüzdesi >",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasMiscIgnite",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "KillSteal with Ignite",
+				"tr-TR": "Tutuştur ile kill çal",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasMiscKillStealQ",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "KillSteal with Q",
+				"tr-TR": "Q ile kill çal",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasMiscKillStealW",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "KillSteal with W",
+				"tr-TR": "W ile kill çal",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasMiscKillStealE",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "KillSteal with E",
+				"tr-TR": "E ile kill çal",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "SylasGapCloserE",
 			"Translator": {
-				"en-US": "",
-				"tr-TR": "",
+				"en-US": "Use E for gapclosers",
+				"tr-TR": "Anında mesafe kapatanlara karşı E kullan",
 				"zh_CN": ""
 			}
 		},
