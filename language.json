@@ -1,0 +1,3799 @@
+﻿{
+	"Languages": [
+		{
+			"key": "AutoLevel",
+			"Translator": {
+				"en-US": "Auto Level Up Skills",
+				"tr-TR": "Otomatik Seviye Atlat",
+				"zh_CN": "自动升级技能"
+			}
+		},
+		{
+			"key": "DrawE",
+			"Translator": {
+				"en-US": "Draw E",
+				"tr-TR": "E mesafesini çiz",
+				"zh_CN": "显示E"
+			}
+		},
+		{
+			"key": "DrawQ",
+			"Translator": {
+				"en-US": "Draw Q",
+				"tr-TR": "Q mesafesini çiz",
+				"zh_CN": "显示Q"
+			}
+		},
+		{
+			"key": "DrawR",
+			"Translator": {
+				"en-US": "Draw R",
+				"tr-TR": "R mesafesini çiz",
+				"zh_CN": "显示R"
+			}
+		},
+		{
+			"key": "DrawW",
+			"Translator": {
+				"en-US": "Draw W",
+				"tr-TR": "W mesafesini çiz",
+				"zh_CN": "显示W"
+			}
+		},
+		{
+			"key": "EzrealAntiGapcloserE",
+			"Translator": {
+				"en-US": "Anti Gapcloser with E",
+				"tr-TR": "E ile anında mesafe kapatanlardan kaç",
+				"zh_CN": "E反突进"
+			}
+		},
+		{
+			"key": "EzrealAutoQ",
+			"Translator": {
+				"en-US": "Auto Q",
+				"tr-TR": "Otomatik Q kullan",
+				"zh_CN": "自动Q"
+			}
+		},
+		{
+			"key": "EzrealAutoQMana",
+			"Translator": {
+				"en-US": "Auto Q if mana percent >",
+				"tr-TR": "Otomatik Q kullan eğer mana yüzdesi >",
+				"zh_CN": "法力百分比 > 时自动 Q"
+			}
+		},
+		{
+			"key": "EzrealLaneClearQMana",
+			"Translator": {
+				"en-US": "Use Q if mana percent >",
+				"tr-TR": "Q kullan eğer mana yüzdesi >",
+				"zh_CN": "如果法力百分比 > 使用 Q"
+			}
+		},
+		{
+			"key": "EzrealLaneClearQMode",
+			"Translator": {
+				"en-US": "Q mode:",
+				"tr-TR": "Q modu: ",
+				"zh_CN": "Q模式："
+			}
+		},
+		{
+			"key": "EzrealLaneClearQModeOption1",
+			"Translator": {
+				"en-US": "Only for last hit",
+				"tr-TR": "Sadece son vuruşta kullan",
+				"zh_CN": "尾刀"
+			}
+		},
+		{
+			"key": "EzrealLaneClearQModeOption2",
+			"Translator": {
+				"en-US": "Always",
+				"tr-TR": "Her zaman kullan",
+				"zh_CN": "总是"
+			}
+		},
+		{
+			"key": "EzrealLastHitQMana",
+			"Translator": {
+				"en-US": "Use Q if mana percent >",
+				"tr-TR": "Q kullan eğer mana yüzdesi  >",
+				"zh_CN": "如果法力百分比 > 使用 Q"
+			}
+		},
+		{
+			"key": "EzrealMenuBoolComboUseWOnlyCanUseQ",
+			"Translator": {
+				"en-US": "^ Only when Ezreal can use Q",
+				"tr-TR": "^ Sadece Ezreal Q'yu kullanabildiğinde",
+				"zh_CN": "^ 仅当伊泽瑞尔可以使用Q"
+			}
+		},
+		{
+			"key": "EzrealMenuKeyBindComboUseRmanuel",
+			"Translator": {
+				"en-US": "Semi Manual R",
+				"tr-TR": "R'yi tuşa basarak kullan",
+				"zh_CN": "半手动 R"
+			}
+		},
+		{
+			"key": "EzrealMenuSliderComboDontRTargetIn",
+			"Translator": {
+				"en-US": "Don't use R if target in",
+				"tr-TR": "Hedef X mesafedeyse R kullanma",
+				"zh_CN": "如果目标在，不要使用 R"
+			}
+		},
+		{
+			"key": "EzrealStackQ",
+			"Translator": {
+				"en-US": "Stack Q",
+				"tr-TR": "Q yükü biriktir",
+				"zh_CN": "堆栈 Q"
+			}
+		},
+		{
+			"key": "EzrealUsePotions",
+			"Translator": {
+				"en-US": "Use Potions",
+				"tr-TR": "İksir Kullan",
+				"zh_CN": "使用药水"
+			}
+		},
+		{
+			"key": "EzrealUseWForTurrets",
+			"Translator": {
+				"en-US": "Use W for turrets, baron and dragon",
+				"tr-TR": "Kuleler, baron ve ejderha için W kullan",
+				"zh_CN": "对炮塔、男爵和龙使用 W"
+			}
+		},
+		{
+			"key": "FleeKey",
+			"Translator": {
+				"en-US": "Flee!",
+				"tr-TR": "Kaç!",
+				"zh_CN": "逃跑"
+			}
+		},
+		{
+			"key": "MenuBoolSpellFarm",
+			"Translator": {
+				"en-US": "Use Spells on Farm",
+				"tr-TR": "Farm yaparken yetenekleri kullan",
+				"zh_CN": "在打野使用技能"
+			}
+		},
+		{
+			"key": "MenuCombo",
+			"Translator": {
+				"en-US": "Combo",
+				"tr-TR": "Kombo",
+				"zh_CN": "连招"
+			}
+		},
+		{
+			"key": "MenuDrawings",
+			"Translator": {
+				"en-US": "Drawings",
+				"tr-TR": "Çizimler",
+				"zh_CN": "范围"
+			}
+		},
+		{
+			"key": "MenuFlee",
+			"Translator": {
+				"en-US": "Flee",
+				"tr-TR": "Kaçış",
+				"zh_CN": "逃跑"
+			}
+		},
+		{
+			"key": "MenuHarass",
+			"Translator": {
+				"en-US": "Harass",
+				"tr-TR": "Haras",
+				"zh_CN": "骚扰"
+			}
+		},
+		{
+			"key": "MenuJungleClear",
+			"Translator": {
+				"en-US": "JungleClear",
+				"tr-TR": "Orman Temizleme",
+				"zh_CN": "清野"
+			}
+		},
+		{
+			"key": "MenuKillSteal",
+			"Translator": {
+				"en-US": "KillSteal",
+				"tr-TR": "Kill çalma",
+				"zh_CN": "自动击杀"
+			}
+		},
+		{
+			"key": "MenuLaneClear",
+			"Translator": {
+				"en-US": "LaneClear",
+				"tr-TR": "Lane temizleme",
+				"zh_CN": "清线"
+			}
+		},
+		{
+			"key": "MenuPrediction",
+			"Translator": {
+				"en-US": "Prediction",
+				"tr-TR": "Tahmin",
+				"zh_CN": "预判"
+			}
+		},
+		{
+			"key": "MenuLastHit",
+			"Translator": {
+				"en-US": "LastHit",
+				"tr-TR": "Son vuruş",
+				"zh_CN": "尾刀"
+			}
+		},
+		{
+			"key": "MenuMisc",
+			"Translator": {
+				"en-US": "Misc",
+				"tr-TR": "Çeşitli",
+				"zh_CN": "杂项"
+			}
+		},
+		{
+			"key": "MenuSliderMana",
+			"Translator": {
+				"en-US": "^ if mana percent >",
+				"tr-TR": "^ Eğer mana yüzdesi >",
+				"zh_CN": "^ 如果法力百分比 >"
+			}
+		},
+		{
+			"key": "MiscQSS",
+			"Translator": {
+				"en-US": "Use QSS",
+				"tr-TR": "QSS kullan",
+				"zh_CN": "使用QSS"
+			}
+		},
+		{
+			"key": "UsageE",
+			"Translator": {
+				"en-US": "Use E",
+				"tr-TR": "E kullan",
+				"zh_CN": "使用 E"
+			}
+		},
+		{
+			"key": "UsageIgnite",
+			"Translator": {
+				"en-US": "Use Ignite",
+				"tr-TR": "Tutuştur kullan",
+				"zh_CN": "使用点燃"
+			}
+		},
+		{
+			"key": "UsageQ",
+			"Translator": {
+				"en-US": "Use Q",
+				"tr-TR": "Q kullan",
+				"zh_CN": "使用 Q"
+			}
+		},
+		{
+			"key": "UsageR",
+			"Translator": {
+				"en-US": "Use R",
+				"tr-TR": "R kullan",
+				"zh_CN": "使用 R"
+			}
+		},
+		{
+			"key": "UsageW",
+			"Translator": {
+				"en-US": "Use W",
+				"tr-TR": "W kullan",
+				"zh_CN": "使用 W"
+			}
+		},
+		{
+			"key": "WelcomeBack",
+			"Translator": {
+				"en-US": "Welcome back! ",
+				"tr-TR": "Tekrar Hoş Geldin!",
+				"zh_CN": "欢迎回来！"
+			}
+		},
+		{
+			"key": "SubEndTime",
+			"Translator": {
+				"en-US": "Your subscription will end on",
+				"tr-TR": "Aboneliğiniz şu tarihte sona erecek: ",
+				"zh_CN": "您的订阅将于"
+			}
+		},
+		{
+			"key": "PressF5",
+			"Translator": {
+				"en-US": "Press F5 to see changes",
+				"tr-TR": "Değişiklikleri görmek için F5'e basın",
+				"zh_CN": "按F5查看变化"
+			}
+		},
+		{
+			"key": "SelectLanguage",
+			"Translator": {
+				"en-US": "Select Language",
+				"tr-TR": "Dil Seç",
+				"zh_CN": "选择语言"
+			}
+		},
+		{
+			"key": "TrollChatEnabled",
+			"Translator": {
+				"en-US": "Enable Troll Chat xD",
+				"tr-TR": "Troll Chat xD'yi aktif et",
+				"zh_CN": "打开 Troll Chat xD"
+			}
+		},
+		{
+			"key": "ExcellentSmiteEnabled",
+			"Translator": {
+				"en-US": "Enable Auto Smite",
+				"tr-TR": "Auto Smite'ı aktif et",
+				"zh_CN": "打开 Auto Smite"
+			}
+		},
+		{
+			"key": "BaseUltEnabled",
+			"Translator": {
+				"en-US": "Enable BaseUlt",
+				"tr-TR": "BaseUlt'u aktif et",
+				"zh_CN": "打开 BaseUlt"
+			}
+		},
+		{
+			"key": "ChampionScriptsEnabled",
+			"Translator": {
+				"en-US": "Enable Champion Scripts ",
+				"tr-TR": "Şampiyon scriptlerini aktif et",
+				"zh_CN": "打开 Champion Scripts"
+			}
+		},
+		{
+			"key": "AutoLevelStartsFrom",
+			"Translator": {
+				"en-US": "Start Auto Level Up From",
+				"tr-TR": "Otomatik level vermeyi şu seviyeden itibaren başlat",
+				"zh_CN": "自动升级"
+			}
+		},
+		{
+			"key": "SelectLeeSinScript",
+			"Translator": {
+				"en-US": "Select LeeSin script",
+				"tr-TR": "LeeSin scripti seç",
+				"zh_CN": "选择盲僧脚本"
+			}
+		},
+		{
+			"key": "SelectKalistaScript",
+			"Translator": {
+				"en-US": "Select Kalista script",
+				"tr-TR": "Kalista scripti seç",
+				"zh_CN": "选择 卡特 脚本"
+			}
+		},
+		{
+			"key": "NewUpdateAvailaible",
+			"Translator": {
+				"en-US": "New update availaible!",
+				"tr-TR": "Yeni bir güncelleme mevcut",
+				"zh_CN": "有新的更新可用！"
+			}
+		},
+		{
+			"key": "DownloadLatestVersionToUse",
+			"Translator": {
+				"en-US": "Download latest version to use.",
+				"tr-TR": "Kullanabilmek için en son sürümü indirin.",
+				"zh_CN": "下载最新版本使用。"
+			}
+		},
+		{
+			"key": "LogOut",
+			"Translator": {
+				"en-US": "Log Out",
+				"tr-TR": "Çıkış yap",
+				"zh_CN": "登出"
+			}
+		},
+		{
+			"key": "YouCanSelectOtherLeeSinScript",
+			"Translator": {
+				"en-US": "You can select other LeeSin script from xDreamms.AIO menu",
+				"tr-TR": "Diğer LeeSin scriptini xDreamms.AIO menüsünden seçebilirsiniz.",
+				"zh_CN": "您可以从 xDreamms.AIO 菜单中选择其他 盲僧 脚本"
+			}
+		},
+		{
+			"key": "YouCanSelectOtherKalistaScript",
+			"Translator": {
+				"en-US": "You can select other Kalista script from xDreamms.AIO menu",
+				"tr-TR": "Diğer Kalista scriptini xDreamms.AIO menüsünden seçebilirsiniz.",
+				"zh_CN": "您可以从 xDreamms.AIO 菜单中选择其他 卡特 脚本"
+			}
+		},
+		{
+			"key": "F5tologinagain",
+			"Translator": {
+				"en-US": "F5 to login again",
+				"tr-TR": "Tekrar giriş yapabilmek için F5'e basın.",
+				"zh_CN": "F5 重新登录"
+			}
+		},
+		{
+			"key": "BaseUltSettings",
+			"Translator": {
+				"en-US": "Settings",
+				"tr-TR": "Ayarlar",
+				"zh_CN": "设置"
+			}
+		},
+		{
+			"key": "BaseUltEnabled",
+			"Translator": {
+				"en-US": "BaseUlt Enabled",
+				"tr-TR": "Base Ulti'yi aktif et",
+				"zh_CN": "启用 全图大"
+			}
+		},
+		{
+			"key": "BaseUltShowRecalls",
+			"Translator": {
+				"en-US": "Show Recalls",
+				"tr-TR": "Base'e dönenleri göster",
+				"zh_CN": "显示位置"
+			}
+		},
+		{
+			"key": "BaseUltShowAllies",
+			"Translator": {
+				"en-US": "Show Allies",
+				"tr-TR": "Takım arkadaşlarını göster",
+				"zh_CN": "显示盟友"
+			}
+		},
+		{
+			"key": "BaseUltShowEnemies",
+			"Translator": {
+				"en-US": "Show Enemies",
+				"tr-TR": "Düşman takımı göster",
+				"zh_CN": "显示敌人"
+			}
+		},
+		{
+			"key": "BaseUltSendPings",
+			"Translator": {
+				"en-US": "Send ping for BaseUlts",
+				"tr-TR": "Base ulti atabileceğim zaman bana işaret yolla",
+				"zh_CN": "为 BaseUlts 发送 ping"
+			}
+		},
+		{
+			"key": "BaseUltFowTimeLimit",
+			"Translator": {
+				"en-US": "FOW Time Limit (SEC)",
+				"tr-TR": "FOW Time Limit (SEC)",
+				"zh_CN": "FOW 时间限制 (SEC)"
+			}
+		},
+		{
+			"key": "NoBaseUltWhile",
+			"Translator": {
+				"en-US": "No BaseUlt while",
+				"tr-TR": "Bu tuşa basarken base ulti kullanma",
+				"zh_CN": "没有 BaseUlt 时"
+			}
+		},
+		{
+			"key": "UseBaseUltOn",
+			"Translator": {
+				"en-US": "Use BaseUlt On: ",
+				"tr-TR": "Base Ultiyi şu şampiyonların üzerinde kullan",
+				"zh_CN": "使用 BaseUlt："
+			}
+		},
+		{
+			"key": "BaseUltBarSettings",
+			"Translator": {
+				"en-US": "Bar Settings",
+				"tr-TR": "Bar ayarları",
+				"zh_CN": "全图大设置"
+			}
+		},
+		{
+			"key": "BaseUltXOffsets",
+			"Translator": {
+				"en-US": "X Offsets",
+				"tr-TR": "X koordinatları",
+				"zh_CN": "X 偏移"
+			}
+		},
+		{
+			"key": "BaseUltYOffsets",
+			"Translator": {
+				"en-US": "Y Offsets",
+				"tr-TR": "Y koordinatları",
+				"zh_CN": "Y 偏移"
+			}
+		},
+		{
+			"key": "BaronNashor",
+			"Translator": {
+				"en-US": "Baron Nashor",
+				"tr-TR": "Baron Nashor",
+				"zh_CN": "纳舒尔男爵"
+			}
+		},
+		{
+			"key": "RiftHerald",
+			"Translator": {
+				"en-US": "Rift Herald",
+				"tr-TR": "Rift Herald",
+				"zh_CN": "裂谷先驱"
+			}
+		},
+		{
+			"key": "CloudDrake",
+			"Translator": {
+				"en-US": "Cloud Drake",
+				"tr-TR": "Bulut Ejderhası",
+				"zh_CN": "云龙"
+			}
+		},
+		{
+			"key": "InfernalDrake",
+			"Translator": {
+				"en-US": "Infernal Drake",
+				"tr-TR": "Cehennem Ejderhası",
+				"zh_CN": "地狱火幼龙"
+			}
+		},
+		{
+			"key": "MountainDrake",
+			"Translator": {
+				"en-US": "Mountain Drake",
+				"tr-TR": "Dağ Ejderi",
+				"zh_CN": "山地德雷克"
+			}
+		},
+		{
+			"key": "OceanDrake",
+			"Translator": {
+				"en-US": "Ocean Drake",
+				"tr-TR": "Okyanus Ejderi",
+				"zh_CN": "海洋龙"
+			}
+		},
+		{
+			"key": "ElderDrake",
+			"Translator": {
+				"en-US": "Elder Drake",
+				"tr-TR": "Büyük Ejderha",
+				"zh_CN": "德雷克长老"
+			}
+		},
+		{
+			"key": "BlueSentinel",
+			"Translator": {
+				"en-US": "Blue Sentinel (Blue Buff)",
+				"tr-TR": "Mavi buff",
+				"zh_CN": "蓝色哨兵 (Blue Buff)"
+			}
+		},
+		{
+			"key": "RedBrambleback",
+			"Translator": {
+				"en-US": "Red Brambleback (Red Buff)",
+				"tr-TR": "Kırmızı buff",
+				"zh_CN": "红黑莓背（红 Buff）"
+			}
+		},
+		{
+			"key": "Gromp",
+			"Translator": {
+				"en-US": "Gromp",
+				"tr-TR": "Gromp",
+				"zh_CN": "格罗普"
+			}
+		},
+		{
+			"key": "GreaterMurkWolf",
+			"Translator": {
+				"en-US": "Greater Murk Wolf",
+				"tr-TR": "Büyük Murk Kurt",
+				"zh_CN": "大灰狼"
+			}
+		},
+		{
+			"key": "CrimsonRaptor",
+			"Translator": {
+				"en-US": "Crimson Raptor",
+				"tr-TR": "Kızıl Raptor",
+				"zh_CN": "猩红猛禽"
+			}
+		},
+		{
+			"key": "AncientKrug",
+			"Translator": {
+				"en-US": "Ancient Krug",
+				"tr-TR": "Ancient Krug",
+				"zh_CN": "古克鲁格"
+			}
+		},
+		{
+			"key": "RiftScuttler",
+			"Translator": {
+				"en-US": "Rift Scuttler",
+				"tr-TR": "Rift Scuttler",
+				"zh_CN": "裂隙迅猛龙"
+			}
+		},
+		{
+			"key": "KeySettings",
+			"Translator": {
+				"en-US": "Key Settings",
+				"tr-TR": "Key Ayarları",
+				"zh_CN": "按键设置"
+			}
+		},
+		{
+			"key": "SmitePress",
+			"Translator": {
+				"en-US": "Smite (Press)",
+				"tr-TR": "Smite aktif et (Basılı tutarak))",
+				"zh_CN": "惩戒（按）"
+			}
+		},
+		{
+			"key": "SmiteToggle",
+			"Translator": {
+				"en-US": "Smite (Toggle)",
+				"tr-TR": "Smite aktif et (Açma-kapama)",
+				"zh_CN": "惩戒（切换）"
+			}
+		},
+		{
+			"key": "EnabledMonsters",
+			"Translator": {
+				"en-US": "Enabled Monsters",
+				"tr-TR": "Aktif canavarlar",
+				"zh_CN": "启用的怪物"
+			}
+		},
+		{
+			"key": "DrawRangeAroundSmiteable",
+			"Translator": {
+				"en-US": "Draw range around smiteable",
+				"tr-TR": "Smite kullanabileceğin canavarların mesafesini çiz",
+				"zh_CN": "在 惩戒 周围绘制范围"
+			}
+		},
+		{
+			"key": "DrawSmiteStatus",
+			"Translator": {
+				"en-US": "Draw Smite Status",
+				"tr-TR": "Smite Durumunu Çiz",
+				"zh_CN": "显示惩戒状态"
+			}
+		},
+		{
+			"key": "TrollChatEnabledBool",
+			"Translator": {
+				"en-US": "Enabled",
+				"tr-TR": "Aktif et",
+				"zh_CN": "启用"
+			}
+		},
+		{
+			"key": "TrollChatPrintGGKey",
+			"Translator": {
+				"en-US": "Print GG",
+				"tr-TR": "GG yazdır",
+				"zh_CN": "游戏结束打出GG"
+			}
+		},
+		{
+			"key": "TrollChatPrintWPKey",
+			"Translator": {
+				"en-US": "Print WP",
+				"tr-TR": "WP yazdır",
+				"zh_CN": "游戏结束打出WP"
+			}
+		},
+		{
+			"key": "TrollChatPrintMiddleFingerKey",
+			"Translator": {
+				"en-US": "Print Middle Finger",
+				"tr-TR": "Orta parmak yazdır",
+				"zh_CN": "游戏结束打出喷人"
+			}
+		},
+		{
+			"key": "TrollChatPrintXDKey",
+			"Translator": {
+				"en-US": "Print XD",
+				"tr-TR": "XD yazdır",
+				"zh_CN": "游戏结束打出 XD"
+			}
+		},
+		{
+			"key": "TrollChatPrintDickKey",
+			"Translator": {
+				"en-US": "Print Dick",
+				"tr-TR": "Yarrak çizdir",
+				"zh_CN": "游戏结束打出鸡巴"
+			}
+		},
+		{
+			"key": "TrollChatAutoSender",
+			"Translator": {
+				"en-US": "Auto Sender",
+				"tr-TR": "Otomatik gönderici",
+				"zh_CN": "自动发送器"
+			}
+		},
+		{
+			"key": "TrollChatAutoSenderEnabled",
+			"Translator": {
+				"en-US": "Enable Auto Sender",
+				"tr-TR": "Otomatik göndericiyi aktif et",
+				"zh_CN": "启用自动发件人"
+			}
+		},
+		{
+			"key": "TrollChatAutoSenderSelection",
+			"Translator": {
+				"en-US": "Select ASCII to automatically send",
+				"tr-TR": "Otomatik gönderilecek bir ASCII seç",
+				"zh_CN": "选择ASCII自动发送"
+			}
+		},
+		{
+			"key": "TrollChatAutoTimer",
+			"Translator": {
+				"en-US": "Delay between send times",
+				"tr-TR": "Gönderim süreleri arasındaki gecikme",
+				"zh_CN": "发送时间之间的延迟"
+			}
+		},
+		{
+			"key": "JinxQSettings",
+			"Translator": {
+				"en-US": "Q Settings",
+				"tr-TR": "Q Ayarları",
+				"zh_CN": "Q 设置"
+			}
+		},
+		{
+			"key": "ComboUseQAoE",
+			"Translator": {
+				"en-US": "Use Q for AOE",
+				"tr-TR": "Alan etkili vuruş için Q kullan",
+				"zh_CN": "使用 Q 进行 AOE"
+			}
+		},
+		{
+			"key": "ComboUseQAoECount",
+			"Translator": {
+				"en-US": "Q AOE Enemy Count >= ",
+				"tr-TR": "Alan etkili vuruş için düşman sayısı >=",
+				"zh_CN": "Q AOE 敌人数量 >="
+			}
+		},
+		{
+			"key": "ComboQMana",
+			"Translator": {
+				"en-US": "Use Q if my mana percent > ",
+				"tr-TR": "Mana yüzdem X'den büyükse Q kullan",
+				"zh_CN": "如果我的法力百分比 > 使用 Q"
+			}
+		},
+		{
+			"key": "JinxWSettings",
+			"Translator": {
+				"en-US": "W Settings",
+				"tr-TR": "W ayarları",
+				"zh_CN": "W 设置"
+			}
+		},
+		{
+			"key": "ComboWRange",
+			"Translator": {
+				"en-US": "Don't use W when target in ",
+				"tr-TR": "Eğer düşman X mesafedeyse W kullanma",
+				"zh_CN": "当目标进入时不要使用 W"
+			}
+		},
+		{
+			"key": "JinxESettings",
+			"Translator": {
+				"en-US": "E Settings",
+				"tr-TR": "E ayarları",
+				"zh_CN": "E 设置"
+			}
+		},
+		{
+			"key": "ComboEMode",
+			"Translator": {
+				"en-US": "E mode: ",
+				"tr-TR": "E modu: ",
+				"zh_CN": "E模式："
+			}
+		},
+		{
+			"key": "ComboEModeOption1",
+			"Translator": {
+				"en-US": "If target slows or stunned",
+				"tr-TR": "Hedef yavaşladığında veya sersemlediğinde kullan",
+				"zh_CN": "如果目标减速或昏迷"
+			}
+		},
+		{
+			"key": "ComboEModeOption2",
+			"Translator": {
+				"en-US": "On the target",
+				"tr-TR": "Hedefin üzerine kullan",
+				"zh_CN": "在目标上"
+			}
+		},
+		{
+			"key": "ComboEModeOption3",
+			"Translator": {
+				"en-US": "Behind of the target",
+				"tr-TR": "Hedefin arkasına kullan",
+				"zh_CN": "目标的背后"
+			}
+		},
+		{
+			"key": "ComboEModeOption4",
+			"Translator": {
+				"en-US": "Front of the target",
+				"tr-TR": "Hedefin önüne kullan",
+				"zh_CN": "目标前方"
+			}
+		},
+		{
+			"key": "JinxRSettings",
+			"Translator": {
+				"en-US": "R Settings",
+				"tr-TR": "R ayarları",
+				"zh_CN": "R 设置"
+			}
+		},
+		{
+			"key": "ComboDontR",
+			"Translator": {
+				"en-US": "Don't R if target in ",
+				"tr-TR": "Eğer hedef X mesafedeyse R kullanma",
+				"zh_CN": "如果目标在，不要 R"
+			}
+		},
+		{
+			"key": "ComboRKey",
+			"Translator": {
+				"en-US": "Semi Manual R",
+				"tr-TR": "Elle R kullan",
+				"zh_CN": "半手动 R"
+			}
+		},
+		{
+			"key": "HarassQAoECount",
+			"Translator": {
+				"en-US": "Q Enemy Count >= ",
+				"tr-TR": "Eğer düşman sayısı X'den fazla veya eşitse Q kullan",
+				"zh_CN": "Q 敌人数量 >="
+			}
+		},
+		{
+			"key": "HarassUseWMana",
+			"Translator": {
+				"en-US": "Use W, If my mana percent > ",
+				"tr-TR": "Mana yüzden X'den büyükse W kullan",
+				"zh_CN": "使用 W，如果我的法力百分比 >"
+			}
+		},
+		{
+			"key": "HarassEMana",
+			"Translator": {
+				"en-US": "Use E, if my mana percent > ",
+				"tr-TR": "Mana yüzden X'den büyükse E kullan",
+				"zh_CN": "使用 E，如果我的法力百分比 >"
+			}
+		},
+		{
+			"key": "AUTOHarassSettings",
+			"Translator": {
+				"en-US": "Auto Harass Settings",
+				"tr-TR": "Otomatik Haras Ayarları",
+				"zh_CN": "自动骚扰设置"
+			}
+		},
+		{
+			"key": "AutoWHarass",
+			"Translator": {
+				"en-US": "Auto W",
+				"tr-TR": "Otomatik W",
+				"zh_CN": "自动W"
+			}
+		},
+		{
+			"key": "AutoHarassWUnderTower",
+			"Translator": {
+				"en-US": "Don't Auto W if target is under turret",
+				"tr-TR": "Eğer hedef kule altındaysa otomatik W kullanma",
+				"zh_CN": "如果目标在炮塔下，不要自动 W"
+			}
+		},
+		{
+			"key": "AutoWHarassMana",
+			"Translator": {
+				"en-US": "Auto W, if mana > ",
+				"tr-TR": "Eğer mana yüzdem X'den fazlaysa otomatik W kullan",
+				"zh_CN": "自动 W，如果法力值 >"
+			}
+		},
+		{
+			"key": "LastHitQ",
+			"Translator": {
+				"en-US": "Use Q if minion out of range",
+				"tr-TR": "Eğer minyon mesafe dışındaysa Q kullan",
+				"zh_CN": "如果随从超出范围使用 Q"
+			}
+		},
+		{
+			"key": "LaneClearQMinionCount",
+			"Translator": {
+				"en-US": "Minion count for Q >= ",
+				"tr-TR": "Q kullan, eğer minyon sayısı >=",
+				"zh_CN": "Q >= 的 Minion 计数"
+			}
+		},
+		{
+			"key": "LaneClearQMana",
+			"Translator": {
+				"en-US": "Use Q if mana percent > ",
+				"tr-TR": "Q kullan, eğer mana yüzdem >",
+				"zh_CN": "如果法力百分比 > 使用 Q"
+			}
+		},
+		{
+			"key": "JungleClearWMana",
+			"Translator": {
+				"en-US": "Use W if mana > ",
+				"tr-TR": "W kullan, eğer mana yüzdem >",
+				"zh_CN": "如果法力值 > 使用 W"
+			}
+		},
+		{
+			"key": "MiscGapCloser",
+			"Translator": {
+				"en-US": "Auto E for Gapcloser",
+				"tr-TR": "Aniden mesafe kapatıcılara karşı otomatik E kullan",
+				"zh_CN": "用于 反突进 的 自动E"
+			}
+		},
+		{
+			"key": "MiscInterrupter",
+			"Translator": {
+				"en-US": "Auto E for Interrupter",
+				"tr-TR": "Spelleri bölmek için otomatik E kullan",
+				"zh_CN": "Auto E for Interrupter"
+			}
+		},
+		{
+			"key": "MiscCCE",
+			"Translator": {
+				"en-US": "Auto E on Enemy CC",
+				"tr-TR": "Eğer düşman CC altındaysa otomatik E kullan",
+				"zh_CN": "敌人 CC 上的自动 E"
+			}
+		},
+		{
+			"key": "AutoLevel",
+			"Translator": {
+				"en-US": "Auto Level Up",
+				"tr-TR": "Yeteneklere otomatik level atlat",
+				"zh_CN": "自动升级"
+			}
+		},
+		{
+			"key": "SkinSettings",
+			"Translator": {
+				"en-US": "Skin Changer",
+				"tr-TR": "Skin Değiştirici",
+				"zh_CN": "换肤"
+			}
+		},
+		{
+			"key": "MiscSkinChanger",
+			"Translator": {
+				"en-US": "Use Skin Changer",
+				"tr-TR": "Skin değiştirici kullan",
+				"zh_CN": "使用换肤"
+			}
+		},
+		{
+			"key": "MiscSkidID",
+			"Translator": {
+				"en-US": "Skin Id: ",
+				"tr-TR": "Skin Id: ",
+				"zh_CN": "皮肤 ID："
+			}
+		},
+		{
+			"key": "MenuItems",
+			"Translator": {
+				"en-US": "Items",
+				"tr-TR": "Itemler",
+				"zh_CN": "项目"
+			}
+		},
+		{
+			"key": "ItemsHP",
+			"Translator": {
+				"en-US": "Use Health Potions",
+				"tr-TR": "Can iksiri kullan",
+				"zh_CN": "使用药水"
+			}
+		},
+		{
+			"key": "ItemsHPValue",
+			"Translator": {
+				"en-US": "If my HP < ",
+				"tr-TR": "Eğer can yüzdem <",
+				"zh_CN": "如果我的 HP <"
+			}
+		},
+		{
+			"key": "ItemsQSS",
+			"Translator": {
+				"en-US": "Use QSS",
+				"tr-TR": "QSS kullan",
+				"zh_CN": "使用QSS"
+			}
+		},
+		{
+			"key": "MenuHitchances",
+			"Translator": {
+				"en-US": "Hitchances",
+				"tr-TR": "Vurma şansları",
+				"zh_CN": "命中机会"
+			}
+		},
+		{
+			"key": "WHitChance",
+			"Translator": {
+				"en-US": "W Hitchance: ",
+				"tr-TR": "W vurma şansı: ",
+				"zh_CN": "W 希契斯："
+			}
+		},
+		{
+			"key": "RHitChance",
+			"Translator": {
+				"en-US": "R Hitchance: ",
+				"tr-TR": "R vurma şansı: ",
+				"zh_CN": "R 拖车："
+			}
+		},
+		{
+			"key": "HitchanceOption1",
+			"Translator": {
+				"en-US": "VeryHigh",
+				"tr-TR": "Çok yüksek",
+				"zh_CN": "很高"
+			}
+		},
+		{
+			"key": "HitchanceOption2",
+			"Translator": {
+				"en-US": "High",
+				"tr-TR": "Yüksek",
+				"zh_CN": "高"
+			}
+		},
+		{
+			"key": "HitchanceOption3",
+			"Translator": {
+				"en-US": "Medium",
+				"tr-TR": "Orta",
+				"zh_CN": "中等"
+			}
+		},
+		{
+			"key": "HitchanceOption4",
+			"Translator": {
+				"en-US": "Low",
+				"tr-TR": "Düşük",
+				"zh_CN": "低"
+			}
+		},
+		{
+			"key": "ViktorComboUseWAlways",
+			"Translator": {
+				"en-US": "Always Use W",
+				"tr-TR": "Her zaman W kullan",
+				"zh_CN": "始终使用 W"
+			}
+		},
+		{
+			"key": "ViktorHitR",
+			"Translator": {
+				"en-US": "Auto R if: ",
+				"tr-TR": "Otomatik R kullan eğer: ",
+				"zh_CN": "自动 R 如果："
+			}
+		},
+		{
+			"key": "ViktorHitROption1",
+			"Translator": {
+				"en-US": "1 target",
+				"tr-TR": "1 hedef varsa",
+				"zh_CN": "1个目标"
+			}
+		},
+		{
+			"key": "ViktorHitROption2",
+			"Translator": {
+				"en-US": "2 targets",
+				"tr-TR": "2 hedef varsa",
+				"zh_CN": "2个目标"
+			}
+		},
+		{
+			"key": "ViktorHitROption3",
+			"Translator": {
+				"en-US": "3 targets",
+				"tr-TR": "3 hedef varsa",
+				"zh_CN": "3个目标"
+			}
+		},
+		{
+			"key": "ViktorHitROption4",
+			"Translator": {
+				"en-US": "4 targets",
+				"tr-TR": "4 hedef varsa",
+				"zh_CN": "4个目标"
+			}
+		},
+		{
+			"key": "ViktorHitROption5",
+			"Translator": {
+				"en-US": "5 targets",
+				"tr-TR": "5 hedef varsa",
+				"zh_CN": "5个目标"
+			}
+		},
+		{
+			"key": "ViktorAutoFollowR",
+			"Translator": {
+				"en-US": "Auto Follow R",
+				"tr-TR": "R'yi otomatik kontrol et",
+				"zh_CN": "自动跟随"
+			}
+		},
+		{
+			"key": "ViktorrTicks",
+			"Translator": {
+				"en-US": "Ultimate ticks to count",
+				"tr-TR": "Ultimate ticks to count",
+				"zh_CN": "最终滴答数"
+			}
+		},
+		{
+			"key": "ViktorROneTarget",
+			"Translator": {
+				"en-US": "R one target",
+				"tr-TR": "1 kişilik ulti",
+				"zh_CN": "R 一个目标"
+			}
+		},
+		{
+			"key": "ViktorforceR",
+			"Translator": {
+				"en-US": "Force R on target",
+				"tr-TR": "R'yi hedefe doğru zorla",
+				"zh_CN": "在目标上强制 R"
+			}
+		},
+		{
+			"key": "ViktorrLastHit",
+			"Translator": {
+				"en-US": "1 target ulti",
+				"tr-TR": "1 hedefli ulti",
+				"zh_CN": "1个目标终极"
+			}
+		},
+		{
+			"key": "ViktorUseROn",
+			"Translator": {
+				"en-US": "Use R on: ",
+				"tr-TR": "R'yi şunlara kullan",
+				"zh_CN": "使用 R："
+			}
+		},
+		{
+			"key": "ViktorspPriority",
+			"Translator": {
+				"en-US": "Prioritize kill over dmg",
+				"tr-TR": "Hasar yerine öldürmeye öncelik ver",
+				"zh_CN": "击杀优先于伤害"
+			}
+		},
+		{
+			"key": "ViktorharassMana",
+			"Translator": {
+				"en-US": "Mana usage in percent (%)",
+				"tr-TR": "Yüzde olarak mana kullanımı (%)",
+				"zh_CN": "法力使用百分比 (%)"
+			}
+		},
+		{
+			"key": "ViktoreDistance",
+			"Translator": {
+				"en-US": "Harass range with E",
+				"tr-TR": "E'nin haras mesafesi",
+				"zh_CN": "用 E 骚扰范围"
+			}
+		},
+		{
+			"key": "ViktorwaveNumE",
+			"Translator": {
+				"en-US": "Minions to hit with E",
+				"tr-TR": "Eğer X kadar minyona vuruyorsa E kullan",
+				"zh_CN": "用 E 击中小兵"
+			}
+		},
+		{
+			"key": "ViktorwaveMana",
+			"Translator": {
+				"en-US": "Mana usage in percent (%)",
+				"tr-TR": "Yüzde olarak mana kullanımı (%)",
+				"zh_CN": "法力使用百分比 (%)"
+			}
+		},
+		{
+			"key": "ViktorrInterrupt",
+			"Translator": {
+				"en-US": "Use R to interrupt dangerous spells",
+				"tr-TR": "Tehlikeli spelleri bölmek için R kullan",
+				"zh_CN": "使用 R 打断危险的法术"
+			}
+		},
+		{
+			"key": "ViktorwInterrupt",
+			"Translator": {
+				"en-US": "Use W to interrupt dangerous spells",
+				"tr-TR": "Tehlikeli spelleri bölmek için W kullan",
+				"zh_CN": "使用 W 打断危险的法术"
+			}
+		},
+		{
+			"key": "ViktorautoW",
+			"Translator": {
+				"en-US": "Use W to continue CC",
+				"tr-TR": "CC'yi sürdürmek için W kullan",
+				"zh_CN": "使用 W 继续 CC"
+			}
+		},
+		{
+			"key": "ViktormiscGapcloser",
+			"Translator": {
+				"en-US": "Use W against gapclosers",
+				"tr-TR": "Aniden mesafe kapatıcılara karşı W kullan",
+				"zh_CN": "使用 W 对抗间隙闭合器"
+			}
+		},
+		{
+			"key": "ViktorMiscAutoLevelUp",
+			"Translator": {
+				"en-US": "Auto Level Up",
+				"tr-TR": "Otomatik level atlat",
+				"zh_CN": "自动升级"
+			}
+		},
+		{
+			"key": "ViktordrawRangeEMax",
+			"Translator": {
+				"en-US": "Draw E Max",
+				"tr-TR": "E'nin max mesafesini çiz",
+				"zh_CN": "绘制 E距离 最大"
+			}
+		},
+		{
+			"key": "AhriComboROnlyUserInitiate",
+			"Translator": {
+				"en-US": "Use R only if user initiated",
+				"tr-TR": "R'yi yalnızca kullanıcı başlatırsa kullanın",
+				"zh_CN": "仅当用户启动时才使用 R"
+			}
+		},
+		{
+			"key": "AhriHarassPercent",
+			"Translator": {
+				"en-US": "Skills until Mana %",
+				"tr-TR": "Mana %'sine kadar yetenek kullan",
+				"zh_CN": "技能直到 Mana %"
+			}
+		},
+		{
+			"key": "AhriFarmPercent",
+			"Translator": {
+				"en-US": "Skills until Mana %",
+				"tr-TR": "Mana %'sine kadar yetenek kullan",
+				"zh_CN": "技能直到 Mana %"
+			}
+		},
+		{
+			"key": "AhriFarmStartAtLevel",
+			"Translator": {
+				"en-US": "Only AA until Level",
+				"tr-TR": "Şu seviyeye kadar sadece otomatik saldırı kullan",
+				"zh_CN": "只有 AA 直到 Level"
+			}
+		},
+		{
+			"key": "AhriAutoE",
+			"Translator": {
+				"en-US": "Auto E on gapclosing targets",
+				"tr-TR": "Aniden mesafe kapatıcılara karşı otomatik E kullan",
+				"zh_CN": "反突进目标上的自动 E"
+			}
+		},
+		{
+			"key": "AhriAutoEI",
+			"Translator": {
+				"en-US": "Auto E to interrupt",
+				"tr-TR": "Spelleri bölmek için otomatik E kullan",
+				"zh_CN": "自动E中断"
+			}
+		},
+		{
+			"key": "AhriKillStealIgnite",
+			"Translator": {
+				"en-US": "KillSteal with Ignite",
+				"tr-TR": "Tutuşturla kill çal",
+				"zh_CN": "用点燃杀人"
+			}
+		},
+		{
+			"key": "CassiopeiaComboEOnlyPoison",
+			"Translator": {
+				"en-US": "Use E only if target has poison",
+				"tr-TR": "E'yi yalnızca hedefte zehir varsa kullan",
+				"zh_CN": "仅当目标中毒时使用 E"
+			}
+		},
+		{
+			"key": "CassiopeiaComboEdelay",
+			"Translator": {
+				"en-US": "E combo delay",
+				"tr-TR": "E kombo gecikmesi",
+				"zh_CN": "E连招延迟"
+			}
+		},
+		{
+			"key": "CassiopeiaComboDisableAA",
+			"Translator": {
+				"en-US": "Disable AA when Combo",
+				"tr-TR": "Kombodayken otomatik saldırı yapma",
+				"zh_CN": "连招时禁用 AA"
+			}
+		},
+		{
+			"key": "CassiopeiaComboAssistedUltKey",
+			"Translator": {
+				"en-US": "Manuel Ult",
+				"tr-TR": "Elle ulti kullan",
+				"zh_CN": "曼努埃尔·乌尔特"
+			}
+		},
+		{
+			"key": "CassiopeiaLaneClearEMode",
+			"Translator": {
+				"en-US": "E mode:",
+				"tr-TR": "E modu:",
+				"zh_CN": "E模式："
+			}
+		},
+		{
+			"key": "CassiopeiaLaneClearEModeOption1",
+			"Translator": {
+				"en-US": "Always",
+				"tr-TR": "Her zaman",
+				"zh_CN": "总是"
+			}
+		},
+		{
+			"key": "CassiopeiaLaneClearEModeOption2",
+			"Translator": {
+				"en-US": "LastHit",
+				"tr-TR": "Son vuruş",
+				"zh_CN": "尾刀"
+			}
+		},
+		{
+			"key": "CassiopeiaLaneClearMana",
+			"Translator": {
+				"en-US": "Lane Clear Mana",
+				"tr-TR": "Lane Temizleme Mana Yüzdesi",
+				"zh_CN": "清线"
+			}
+		},
+		{
+			"key": "CassiopeiaLastHitDisableAA",
+			"Translator": {
+				"en-US": "Disable AA",
+				"tr-TR": "Otomatik saldırı yapma",
+				"zh_CN": "禁用 AA"
+			}
+		},
+		{
+			"key": "CassiopeiaAutoEMinions",
+			"Translator": {
+				"en-US": "If minion will die, auto e",
+				"tr-TR": "Minyon ölecekse otomatik E kullan",
+				"zh_CN": "如果minion会死，自动e"
+			}
+		},
+		{
+			"key": "CassiopeiaMiscBlockR",
+			"Translator": {
+				"en-US": "Block R",
+				"tr-TR": "Eğer R vurmazsa, engelle",
+				"zh_CN": "R座"
+			}
+		},
+		{
+			"key": "CassiopeiaMiscAutoUlt",
+			"Translator": {
+				"en-US": "Auto Ultimate",
+				"tr-TR": "Otomatik Ulti",
+				"zh_CN": "自动R"
+			}
+		},
+		{
+			"key": "CassiopeiaMiscAutoUltF",
+			"Translator": {
+				"en-US": "AutoUlt facing",
+				"tr-TR": "Otomatik ulti X kişiyle karşılarşırsa",
+				"zh_CN": "AutoUlt 面"
+			}
+		},
+		{
+			"key": "CassiopeiaMiscAutoUltnF",
+			"Translator": {
+				"en-US": "AutoUlt not facing",
+				"tr-TR": "Otomatik ulti X kişiyle karşılaşmazsa",
+				"zh_CN": "AutoUlt 没有面对"
+			}
+		},
+		{
+			"key": "CassiopeiaMiscFlashR",
+			"Translator": {
+				"en-US": "Flash R",
+				"tr-TR": "Sıçra R",
+				"zh_CN": "R闪"
+			}
+		},
+		{
+			"key": "CassiopeiaPredictionQ",
+			"Translator": {
+				"en-US": "Q prediction: ",
+				"tr-TR": "Q tahmini: ",
+				"zh_CN": "Q预测："
+			}
+		},
+		{
+			"key": "KaiSaComboEMode",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		},
+		{
+			"key": "",
+			"Translator": {
+				"en-US": "",
+				"tr-TR": ""
+			}
+		}
+		
+
+	]
+}
