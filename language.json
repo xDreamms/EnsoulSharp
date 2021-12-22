@@ -1577,81 +1577,81 @@
 			}
 		},
 		{
-			"key": "",
+			"key": "KassadinComboDontR",
 			"Translator": {
-				"en-US": "",
+				"en-US": "Don't R if >= X Enemies",
 				"tr-TR": "",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KassadinHarassMana",
 			"Translator": {
-				"en-US": "",
+				"en-US": "Do harass if mana percent>",
 				"tr-TR": "",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KassadinLaneClearManaManager",
 			"Translator": {
-				"en-US": "",
+				"en-US": "Clear lane if mana percent >",
 				"tr-TR": "",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KassadinLaneClearUseR",
 			"Translator": {
-				"en-US": "",
+				"en-US": "Use R if no enemies arround",
 				"tr-TR": "",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KassadinKillStealRQE",
 			"Translator": {
-				"en-US": "",
+				"en-US": "Use RQE",
 				"tr-TR": "",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KassadinMiscAntiGapcloserR",
 			"Translator": {
-				"en-US": "",
+				"en-US": "Anti Gapcloser with R",
 				"tr-TR": "",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KassadinMiscInterrupterQ",
 			"Translator": {
-				"en-US": "",
+				"en-US": "Interrupt spells with Q",
 				"tr-TR": "",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KassadinMiscSetSkinEnabled",
 			"Translator": {
-				"en-US": "",
+				"en-US": "Set Skin Enabled",
 				"tr-TR": "",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KassadinSetSkin",
 			"Translator": {
-				"en-US": "",
+				"en-US": "Set Skin",
 				"tr-TR": "",
 				"zh_CN": ""
 			}
 		},
 		{
-			"key": "",
+			"key": "KassadinMiscAutoLevel",
 			"Translator": {
-				"en-US": "",
+				"en-US": "Auto Level Up",
 				"tr-TR": "",
 				"zh_CN": ""
 			}
