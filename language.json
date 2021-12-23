@@ -1517,7 +1517,7 @@
 			"Translator": {
 				"en-US": "Don't use R If enemy count > ",
 				"tr-TR": "Eğer düşman sayısı X'den fazlaysa R kullanma",
-				"zh_CN": ""
+				"zh_CN": "如果敌人数量多，不要使用 R >"
 			}
 		},
 		{
@@ -1525,7 +1525,7 @@
 			"Translator": {
 				"en-US": "Don't use R If target in ",
 				"tr-TR": "Eğer X menzilde bir hedef varsa R kullanma",
-				"zh_CN": ""
+				"zh_CN": "如果目标在 X 范围内，不要使用 R"
 			}
 		},
 		{
@@ -1549,7 +1549,7 @@
 			"Translator": {
 				"en-US": "Min mana % for Q",
 				"tr-TR": "Q için en düşük mana yüzdesi",
-				"zh_CN": ""
+				"zh_CN": "Q的最小法力值"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"Translator": {
 				"en-US": "Min mana % for W",
 				"tr-TR": "W için en düşük mana yüzdesi",
-				"zh_CN": ""
+				"zh_CN": "W的最小法力值"
 			}
 		},
 		{
@@ -1645,7 +1645,7 @@
 			"Translator": {
 				"en-US": "Set Skin",
 				"tr-TR": "Skin numarası",
-				"zh_CN": ""
+				"zh_CN": "皮肤号"
 			}
 		},
 		{
