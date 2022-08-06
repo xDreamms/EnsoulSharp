@@ -8,7 +8,7 @@ BaseUlt - Auto Smite - Troll Chat
 
 
 # DONATE
-[![paypal](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZVSBBZ8RTAE2G)
+BTC: 1kZte3TDWpTMb7sTXHhYNtoHEcC9DpASp 
 
 
 
